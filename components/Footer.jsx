@@ -232,7 +232,7 @@ export default function Footer() {
                             <div className="credits-content">
                                 <div className="credits-item credit-wiggle">
                                     <div className="overflow-wrapper"><span className="credits-label">design by</span></div>
-                                    <div className="overflow-wrapper"><a href="#" className="credits-name" data-wiggle-target="true">Jordan</a></div>
+                                    <div className="overflow-wrapper"><a href="#" className="credits-name" data-wiggle-target="true">Yunus Emre Gürlek</a></div>
                                 </div>
                                 <div className="credits-item credit-wiggle">
                                     <div className="overflow-wrapper"><span className="credits-label">code by</span></div>
